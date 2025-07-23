@@ -1,6 +1,10 @@
 # Online-Assessment-Automation
 Automating the online Assessments and other test using LLM
 
+# Online Quiz Automation : 
+teacher will upload the pdf of book all the topics will display .
+teacher will select the topics toughed today and on the last day of the week revision test will be scheduled for all the students.
+
 
 If the teacher want to test their students that they have understood the topic so the teacher can test using this website.
 
